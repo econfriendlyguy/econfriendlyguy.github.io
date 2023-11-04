@@ -1,5 +1,8 @@
 # Economist
 
+![econfriendlyguy.github.io](./assets/picture_isq.jpg)
+
+
 #### Technical Skills: STATA, MATLAB (Dynare), Python, z-Tree, Tableau, Latex, QGIS, KoboToolkit
 
 ## Education
