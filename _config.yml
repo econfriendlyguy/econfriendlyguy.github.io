@@ -1,6 +1,5 @@
 title: Ishmam Al Quddus
 #description: text below image
 show_downloads: false
-github:
-  is_project_page: false
+is_project_page: false
 theme: jekyll-theme-minimal
