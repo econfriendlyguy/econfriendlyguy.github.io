@@ -2,5 +2,6 @@ title: Ishmam Al Quddus
 logo: /assets/img/picture_isq.jpg
 #description: text below image
 show_downloads: false
-is_project_page: false
+github: 
+    is_project_page: false
 theme: jekyll-theme-minimal
