@@ -6,24 +6,24 @@
 
 ## Education
 - MSc, Economics and Financial Economics | The University of Nottingham, United Kingdom (_Dec 2020_)								       		
-- BSS, Economics	|       Brac University Bangladesh (_November 2018_)	 			        		
+- BSS, Economics	| Brac University, Bangladesh (_Nov 2018_)	 			        		
 
 ## Work Experience
-**Lecturer, Department of Economics and Social Sciences at BRAC University (_September 2021 - Present_)**
+**Lecturer, Department of Economics and Social Sciences at BRAC University (_Sep 2021 - Present_)**
 Courses Taught: Money and Banking; Mathematics for Economics and Business; Intermediate Macroeconomics; Introduction to Macroeconomics; Introduction to Microeconomics; and Project Appraisal and Investment
 
-**Co-Researcher of the Research Project funded by Gesellschaft für Internationale Zusammenarbeit (GIZ) [Ongoing Project] (_August 2023 - Present_)**
+**Co-Researcher of the Research Project funded by Gesellschaft für Internationale Zusammenarbeit (GIZ) [Ongoing Project] (_Aug 2023 - Present_)**
 - Identifying the functional role of the supervisors in the Readymade Garment Industry (RMG) sector of Bangladesh
 - Analysis of the motivation behind becoming a supervisor from a production worker
 - Study of the impact of female supervisors on women empowerment in the RMG sector of Bangladesh
 
-**Research Associate at BRAC Institute of Governance and Development (_ January 2021 - October 2021_)**
+**Research Associate at BRAC Institute of Governance and Development (_ Jan 2021 - Oct 2021_)**
 - Worked on an Applied research project focused on Digital Innovations integrated into the development projects
 - Conducted a landscape study on digitalization in BRAC programs, "Scanning for Digital Innovation and Opportunities: A Landscape Review of BRAC Bangladesh Programs"
 - Analyzed Know Your Customer (KYC) initiatives of digital public delivery services in Bangladesh
 - Evaluation of the National Helpline (333) use and its service quality
 
-**Intern at BRAC Institute of Governance and Development  (_ September - November 2018_)**
+**Intern at BRAC Institute of Governance and Development  (_ Sep - Nov 2018_)**
 - Worked on a research project, "Consultation of Gender Mainstreaming in Selected Sectors" with the Gender Studies cluster on a collaborative project with the Asian Development Bank
 - Identify modalities to incorporate approaches for gender equality and empowerment of women into selected sectors: Education, Energy, Transport, and Urban development
 - Facilitate Focus Group Discussions (FGDs) across the country 
