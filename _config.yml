@@ -1,8 +1,7 @@
 title: Ishmam Al Quddus
 logo: /assets/img/picture.jpg
-github:
-  is_project_page: false
 #description: text below image
 show_downloads: false
 theme: jekyll-theme-minimal
-
+github:
+  is_project_page: false
