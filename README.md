@@ -2,9 +2,11 @@
 
 #### Technical Skills: STATA, MATLAB (Dynare), Python, z-Tree, Tableau, Latex, QGIS, KoboToolkit
 
+#### Teaching Skill: 85%+ score achieved in students evaluation reports 
+
 ## Education
-- MSc, Economics and Financial Economics | The University of Nottingham (_Dec 2020_)								       		
-- BSS, Economics	| Brac University (_November 2018_)	 			        		
+- MSc, Economics and Financial Economics | The University of Nottingham, United Kingdom (_Dec 2020_)								       		
+- BSS, Economics	| Brac University, Bangladesh (_November 2018_)	 			        		
 
 ## Work Experience
 **Lecturer, Department of Economics and Social Sciences at BRAC University (_September 2021 - Present_)**
@@ -44,18 +46,43 @@ This report, for the Applied Research and Implementation Initiative (DigiDev), s
 
 ### Does financial inclusion induce financial instability in an economy? 
 
-[Dissertation (Masters)]
+Dissertation (Masters)
 
 Producing a composite index of Financial Inclusion of 75 countries using a multidimensional approach. Analysis of the increase in access to financial services on the financial soundness (NPL to GDP ratio, bank z-score and bank return on assets volatility). The paper considered a robust approach in terms of empirical analysis based on different groups of regression analysis. The findings are expected to be crucial for future policy implications by the Central Bank to enhance both financial and economic development. 
 
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+### "Uncertainty Shock around Zero Lower Bound" - Postgraduate Coursework 
+
+Postgraduate Course
+
+Using MATLAB (Dynare), formulated Dynamic Stochastic General Equilibrilium (DSGE) models assessed the impact of Brexit (Uncertainty shock) on the housing market. The same methodology could be extended to investigate COVID-19 as an economic uncertainty shock, contingent on minor changes in the model.
+
+### "Should the Inflation Target be raised in a low real interest rate environment?"  - Postgraduate Coursework 
+
+Postgraduate Course
+
+With both the inflation rate and nominal rate being persistently low, the central banks, predominantly in the advanced countries, are facing new challenges as there is little room to manoeuvre the nominal rate during the economic slowdown. However, since 2021, this group of countries has experienced high inflation, and monetary policies played a vital role in controlling the inflation, engendering the discussion of inflation targeting, policy rate and its implications. 
+
+### Replication of Romer's work on "Openness and Inflation: Theory And Evidence
+
+Postgraduate Course
+
+Reproducing and examining the results of Romer's (1993) seminal paper with the same theoretical understanding and suggestion of possible extension of the paper. THe replication was completed successfully: by obtaining the same results as the author's findings. 
+
+
+### Impact of Corruption on Economic Growth of Bangladesh: A Time Series Analysis – Undergraduate Coursework 
+
+Undergraduate Course
+
+The paper intended to see whether a short-run and long-run relationship exists between corruption and economic growth in Bangladesh. In line with previous literature, corruption acts as fuel to spur economic growth rates in developing economies at their initial stage of development. 
+
+
+## Other Experience and Activities
+- Workshop on “Data Cleaning and Management” for Undergraduate Students, Spring 2023
+- Advisor of Brac University Economics Club (2022-Present)
+- Postgraduate student's representative of the Students and Teachers Facilities team of the University of Nottingham (2019/20). 
+
+### References Available on Request 
 
 
 
