@@ -80,7 +80,7 @@ The paper intended to see whether a short-run and long-run relationship exists b
 ## Other Experience and Activities
 - Workshop on “Data Cleaning and Management” for Undergraduate Students, Spring 2023
 - Advisor of Brac University Economics Club (2022-Present)
-- Postgraduate student's representative of the Students and Teachers Facilities team of the University of Nottingham (2019/20). 
+- Postgraduate student representative of the Students and Teachers Facilities team of the University of Nottingham (2019/20). 
 
 ### References Available on Request 
 
