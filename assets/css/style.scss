@@ -4,11 +4,9 @@
 @import "{{ site.theme }}";
 
 
-site.github.owner_url {
-    display: none;
+[class='view'] {
+  display: none;
 }
-
-
 
 footer {
   display: none !important;
