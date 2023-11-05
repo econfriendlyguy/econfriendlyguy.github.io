@@ -5,8 +5,8 @@
 #### Teaching Skill: 85%+ score achieved in students evaluation reports 
 
 ## Education
-- MSc, Economics and Financial Economics | The University of Nottingham  United Kingdom (_Dec 2020_)								       		
-- BSS, Economics	| Brac University   Bangladesh (_November 2018_)	 			        		
+- MSc, Economics and Financial Economics | The University of Nottingham, United Kingdom (_Dec 2020_)								       		
+- BSS, Economics	|       Brac University Bangladesh (_November 2018_)	 			        		
 
 ## Work Experience
 **Lecturer, Department of Economics and Social Sciences at BRAC University (_September 2021 - Present_)**
