@@ -1,5 +1,7 @@
 # Economist
-
+### Email Address: ishmam.aq@gmail.com 
+### LinkedIn Profile: [Ishmam Al Quddus](https://linkedin.com/in/ishmamalquddus)
+### X (twitter) Account: @IshmamQ
 #### Technical Skills: STATA, MATLAB (Dynare), Python, z-Tree, Tableau, Latex, QGIS, KoboToolkit
 
 #### Teaching Skill: 85%+ score achieved in students evaluation reports 
