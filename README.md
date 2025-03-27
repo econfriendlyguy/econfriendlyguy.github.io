@@ -8,11 +8,14 @@
 
 ## Education
 - PhD in Economics, University of Washington, Seattle (2024-Present)
-- MSc in Economics and Financial Economics, University of Nottingham, United Kingdom (_Dec 2020_)								       		
-- BSS in Economics, Brac University, Bangladesh (_Nov 2018_)	 			        		
+- MSc in Economics and Financial Economics, University of Nottingham, United Kingdom (Dec 2020)								       		
+- BSS in Economics, Brac University, Bangladesh (Nov 2018)	 			        		
 
 ## Work Experience
-**Lecturer, Department of Economics and Social Sciences at BRAC University (_Sep 2021 - Present_)**
+
+**Graduate Teaching Assistant, Department of Economics at University of Washington, Seattle
+
+**Lecturer (Study leave), Department of Economics and Social Sciences at BRAC University (_Sep 2021 - Sep 2024)**
 Courses Taught: Money and Banking; Growth and Development; Mathematics for Economics and Business; Intermediate Macroeconomics; Introduction to Macroeconomics; Introduction to Microeconomics; and Project Appraisal and Investment
 
 **Co-Researcher of the Research Project funded by Gesellschaft für Internationale Zusammenarbeit (GIZ) [Ongoing Project] (_Aug 2023 - Present_)**
