@@ -13,7 +13,7 @@
 
 ## Work Experience
 
-**Graduate Teaching Assistant, Department of Economics at University of Washington, Seattle
+**Graduate Teaching Assistant, Department of Economics at University of Washington, Seattle**
 
 **Lecturer (Study leave), Department of Economics and Social Sciences at BRAC University (_Sep 2021 - Sep 2024)**
 Courses Taught: Money and Banking; Growth and Development; Mathematics for Economics and Business; Intermediate Macroeconomics; Introduction to Macroeconomics; Introduction to Microeconomics; and Project Appraisal and Investment
