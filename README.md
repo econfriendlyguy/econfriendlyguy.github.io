@@ -7,8 +7,9 @@
 #### Teaching Skill: 85%+ score achieved in students evaluation reports 
 
 ## Education
-- MSc, Economics and Financial Economics | The University of Nottingham, United Kingdom (_Dec 2020_)								       		
-- BSS, Economics	| Brac University, Bangladesh (_Nov 2018_)	 			        		
+- PhD in Economics, University of Washington, Seattle (2024-Present)
+- MSc in Economics and Financial Economics, University of Nottingham, United Kingdom (_Dec 2020_)								       		
+- BSS in Economics, Brac University, Bangladesh (_Nov 2018_)	 			        		
 
 ## Work Experience
 **Lecturer, Department of Economics and Social Sciences at BRAC University (_Sep 2021 - Present_)**
