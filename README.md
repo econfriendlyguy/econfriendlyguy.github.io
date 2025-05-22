@@ -14,10 +14,13 @@
 ## Work Experience
 
 **Graduate Teaching Assistant, Department of Economics at University of Washington, Seattle**
+
 Courses taught: ECON200 Introduction to Microeconomics (SPRING 2025)
+
 UW Teaching Evaluation Score: 4.8/5.0
 
 **Lecturer (Study leave), Department of Economics and Social Sciences at BRAC University (_Sep 2021 - Sep 2024_)**
+
 Courses Taught: Money and Banking; Growth and Development; Mathematics for Economics and Business; Intermediate Macroeconomics; Introduction to Macroeconomics; Introduction to Microeconomics; and Project Appraisal and Investment
 
 **Co-Researcher of the Research Project funded by Gesellschaft für Internationale Zusammenarbeit (GIZ) [Ongoing Project] (_Aug 2023 - Present_)**
