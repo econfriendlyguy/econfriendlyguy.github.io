@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+website:
+  #title: "Home"
+  page-footer: "Created by Quarto"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - href: blog/index.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

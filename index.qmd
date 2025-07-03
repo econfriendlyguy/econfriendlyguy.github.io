@@ -1,0 +1,25 @@
+---
+title: "Ishmam Al Quddus"
+subtitle: "Ph.D Student | Economics | University of Washington"
+image: website.jpg
+about:
+  template: jolla
+  image-shape: round
+  image-width: 25em
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - text: CV
+      icon: file-person
+  id: about
+---
+
+::: {#about}
+A little bit about me and my life.
+{{<lipsum 1>}}
+:::
+
